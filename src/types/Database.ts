@@ -1,3 +1,5 @@
+import { WaitlistEntry } from "./WaitlistEntry";
+
 export type Database = {
     public: {
       Tables: {
