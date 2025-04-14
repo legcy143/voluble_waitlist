@@ -16,7 +16,7 @@ export default function Home() {
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
-        className=' p-2 pb-[5rem]  max-w-xl z-40 m-auto  flex flex-col items-center justify-center gap-2'>
+        className=' p-2 pb-[5rem]  max-w-xl z-40 m-auto  flex flex-col items-center justify-center gap-3'>
         <h1 className='text-[20vw] sm:text-[15vw] md:text-[10vw] lg:text-10xl font-bold'>Voluble</h1>
         <p className='text-base sm:text-xl md:text-2xl font-semibold text-center'>The next generation of conversation</p>
         <p className='text-center text-xs opacity-80'>experience seamless communication with our revoolutionary chat platform . connect with friends , famiy aand colleagues in a whole new way.</p>
